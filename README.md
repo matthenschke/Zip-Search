@@ -1,3 +1,6 @@
+A React Project that relies on API calls from http://ctp-zip-api.herokuapp.com/
+For more information on how to use this API, please refer to this link
+https://github.com/CUNYTechPrep/week-03-projects
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
