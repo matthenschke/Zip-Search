@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.top-buffer { margin-top: 30px;}
+
+.results{
+  
+  position : relative;
+  right : 0px;
+  top : 30px;
+  
+}
+
+.area-info{
+  border: 2px solid rgba(66, 64, 64, 0.062);
+  border-radius: 10px;
+  margin-bottom : 50px;
+}
+.area-info-header{
+  width : 100%;
+  height : 10%;
+  text-align : center;
+  font-size : 30px;
+  background-color : rgba(128, 128, 128, 0.13);
+  
+}
